@@ -14,6 +14,8 @@ Welcome to the Blacklight project wiki and lore archive.
 
 ---
 
-*For questions or suggestions, open an issue or contact via GitHub.*  
-*Please refer to the [LICENSE.md](./LICENSE.md) file for appropriate info before downloading anything locally.*  
+*For questions or suggestions, open an issue or contact via GitHub.*
+
+*Please refer to the [LICENSE.md](./LICENSE.md) file for appropriate info before downloading anything locally.*
+
 *Thank you!*
