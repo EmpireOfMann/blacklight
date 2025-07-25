@@ -19,3 +19,9 @@ Welcome to the Blacklight project wiki and lore archive.
 *Please refer to the [LICENSE.md](./LICENSE.md) file for appropriate info before downloading anything locally.*
 
 *Thank you!*
+
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="images/wip2.png">
+ <source media="(prefers-color-scheme: light)" srcset="images/wip2.png">
+ <img src="images/wip2.png">
+</picture>
