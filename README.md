@@ -8,7 +8,7 @@ Welcome to the Blacklight project wiki and lore archive.
 - Setting lore, timelines, and worldbuilding notes
 - Faction breakdowns and character bios
 - Technology, metaphysics, and philosophical analysis
-- Media and resource links
+- Media, inspirations and resource links
 
 > For more information, explore the wiki or check back for updates.
 
