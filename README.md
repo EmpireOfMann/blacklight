@@ -1,6 +1,6 @@
 # BLACK ✦ LIGHT
 
-Welcome to the Blacklight Project wiki and lore archive.
+Welcome to the Blacklight project wiki and lore archive.
 
 ---
 
@@ -14,5 +14,5 @@ Welcome to the Blacklight Project wiki and lore archive.
 
 ---
 
-*© EmpireOfMann. For questions or suggestions, open an issue or contact via GitHub.*
+*For questions or suggestions, open an issue or contact via GitHub.*
 
