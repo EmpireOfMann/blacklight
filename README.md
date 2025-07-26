@@ -2,6 +2,8 @@
 
 Welcome to the Blacklight project wiki and lore archive.
 
+[You can read it here.](https://empireofmann.github.io/blacklight/)
+
 ---
 
 **This repository contains:**
