@@ -23,7 +23,7 @@ Welcome to the Blacklight project wiki and lore archive.
 *Thank you!*
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="images/wip2.png">
- <source media="(prefers-color-scheme: light)" srcset="images/wip2.png">
- <img src="images/wip2.png">
+ <source media="(prefers-color-scheme: dark)" srcset="images/logo_concept.png">
+ <source media="(prefers-color-scheme: light)" srcset="images/logo_concept.png">
+ <img src="images/logo_concept.png">
 </picture>
